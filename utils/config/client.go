@@ -1,7 +1,7 @@
 package config
 
 import (
-	"socks5-proxy/utils/logger"
+	"github.com/briteming/socks5-proxy/utils/logger"
 
 	"github.com/go-ini/ini"
 )
