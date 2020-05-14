@@ -7,8 +7,8 @@ import (
 	"io"
 	"io/ioutil"
 	"net"
-	"socks5-proxy/utils/config"
-	"socks5-proxy/utils/logger"
+	"github.com/briteming/socks5-proxy/utils/config"
+	"github.com/briteming/socks5-proxy/utils/logger"
 	"strconv"
 )
 
